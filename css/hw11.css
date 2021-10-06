@@ -1,0 +1,17 @@
+header {
+  background: #d3d3d3;
+  text-align: center;
+  font-family:serif;
+  color:white;
+  }
+body{
+  width: 80%;
+
+  }
+nav{
+  text-align: left;
+  color:black;
+}
+section{
+  background: grey;
+}
